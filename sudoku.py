@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-@author: Hayden (Yuxi) Liu   yuxi.liu.ece@gmail.com
-
-
-Insight Data Engineering Fellows Program - Coding Challenge
 
 Input a CSV file consisting of an unsolved Sudoku with 0's 
 representing blanks, and output a CSV file with the solved Sudoku.
